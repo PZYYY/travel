@@ -1,0 +1,43 @@
+/*
+* @Author: ding
+* @Date:   2017-05-17 08:36:52
+* @Last Modified by:   ding
+* @Last Modified time: 2017-05-17 17:03:28
+*/
+.words{
+	width:700px;
+	left:50%;
+	position: relative;
+	margin-left: -350px;
+	height:200px;
+	margin-bottom: 20px;
+	padding:20px 0 0 10px;
+	border-top: 1px solid #b7b8b8;
+	border-bottom: 1px solid #b7b8b8;
+}
+.words_img{
+	width:1000px;
+	left:50%;
+	position: relative;
+	margin-left: -500px;
+	height:300px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+
+}
+.food_left{
+	float: left;
+	width:250px;
+	height:300px;
+	padding:10px 0 0 50px;
+}
+.food_right{
+	float: left;
+	width:670px;
+	padding: 3px 10px 0 0;
+	line-height: 25px;
+}
+.text_1{
+	text-align: center;
+	line-height:30px;
+}

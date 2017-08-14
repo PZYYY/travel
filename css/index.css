@@ -1,0 +1,42 @@
+/*
+* @Author: ding
+* @Date:   2017-05-09 20:40:11
+* @Last Modified by:   ding
+* @Last Modified time: 2017-05-18 14:56:48
+*/
+
+.LunBo{
+	width:1200px;
+	height:530px;
+}
+video{
+	object-fit:fill;
+	width:100%;
+	height:530px;
+}
+.welcome{
+	text-align: center;
+	font-size:24px;
+	padding:50px 0 20px 0;
+	border-bottom: 2px solid black;	
+	position:relative;
+	left:50%;
+	width:600px;
+	margin-left:-300px;
+}
+.threeIdea{
+	width:800px;
+	height:300px;
+	margin-top: 120px;
+	position:relative;
+	left:50%;
+	margin-left:-400px;
+	padding-left: 23px;
+}
+.kuang{
+	width:210px;
+	height:210px;
+	float:left;
+	margin:30px 0px 20px 30px;
+	border-radius: 20px;
+}

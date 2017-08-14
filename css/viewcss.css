@@ -1,0 +1,59 @@
+/*
+* @Author: peng
+* @Date:   2017-05-12 22:30:35
+* @Last Modified by:   ding
+* @Last Modified time: 2017-05-17 01:51:03
+*/
+p{line-height:0px;
+  }
+.v_photo{width: 420px;
+         float: left;
+         padding-top:30px;
+         margin-left:70px;
+         margin-right: 50px;
+     }
+.v_introduce{width: 350px;
+             float: left;
+             text-align:center;
+             padding-top: 40px;
+     }
+ 
+  .v_introduceT{
+    font-weight:bolder;
+    font-size:20px;
+    font-family: "黑体";
+  }
+  .v_introduceT2{
+   color:#8b8a88;
+   font-family: "黑体";
+  }
+  .v_introduceT3{
+    font-family: "黑体";
+    line-height:17px;
+    font-size:15px;
+  }
+  .v_photo2{
+      margin-left: 50px;
+  }
+  .v_photo3{
+         width: 400px;
+         float: left;
+         margin-left:70px;
+         margin-right: 50px;
+  }
+
+  .v_introduceG{
+             width: 350px;
+             float: left;
+             text-align:center;
+             margin-left:70px;
+             padding-top:30px;
+             margin-right:50px;
+  }
+  .v_introduce2{
+
+  }
+
+  .clear{
+      clear: both;
+     }

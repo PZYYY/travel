@@ -1,0 +1,113 @@
+/*
+* @Author: Administrator
+* @Date:   2017-05-17 01:14:52
+* @Last Modified by:   ding
+* @Last Modified time: 2017-05-18 11:07:47
+*/
+.s_top{
+	text-align: center;
+	margin-top: 66px;
+	margin-bottom: 66px;
+}
+
+.words_img{
+	width:930px;
+	height:190px;
+	margin-bottom: 20px;
+	border:1px solid #dde1df;
+	border-radius: 10px;
+	
+}
+.food_left{
+	float: left;
+	width:240px;
+	height:150px;
+	padding:15px;
+}
+.food_right{
+	float: left;
+	width:620px;
+	padding: 3px 0 0 5px;
+	line-height: 20px;
+	padding:15px;
+	font-size: 16px;
+}
+.s_imgtx{
+	border: 1px solid gray;
+	width: 66px;
+	height: 66px;
+	float: left;
+	border-radius: 50%;
+}
+.s_user{
+	width: 240px;
+	height:50px;
+	font-family: "黑体";
+	padding: 25px 0 0 0;
+	color: #c8c9c4;
+}
+.s_introduce{
+	width: 240px;
+	height:50px;
+}
+.p1{
+	color: #fd991d;
+	font-size: 18px;
+	margin-left: 10px;
+}
+.p2{
+	color: #c8c9c4;
+	font-size: 14px;
+	margin-left: 10px;
+}
+.jianjie{
+	color: #fd991d;
+	font-size: 16px;
+	margin-top:10px;
+	font-family: "黑体";
+}
+.share_img{
+	border-radius:0px;
+	margin:5px 5px 0 0;
+	 cursor: pointer;  
+     transition: all 0.6s;  
+}
+
+.share_img:hover{
+	transform: scale(2);  
+}
+
+.neiRong{
+	font-size: 16px;
+	margin-left:30px;
+}
+#PushTieZi{
+	margin:20px 30px 0px 30px;
+	padding-top:10px;
+	}
+#PushTieZi_text{
+	width:600px;
+	height:30px;
+	margin-bottom:10px;
+	}
+#PushTieZi_content{
+	width:650px;
+	height:250px;
+	border:solid 1px #999;
+	}
+#PushTieZi_kuang{
+	border:solid 1px #CCCCCC;
+	width:700px;
+	height:250px;
+	padding:50px 0 25px 0;
+	background-color:#fafafa;
+	}
+.PushTieZi_btn{
+	background-color:#3e89fa;
+	width:90px;
+	height:35px;
+	margin-top:10px;
+	border:solid 1px #3e89fa;
+	color:white;
+	font-weight:bold;	
+	}
