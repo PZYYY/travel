@@ -34,9 +34,12 @@ body{
 	height:40px;
 	font-size:15px;
 	padding:0 0 15px 100px;
+    z-index: 1;
+    position: absolute;
 }
 .nav ul{
 	list-style-type: none;
+	
 }
 .nav ul li{
 	display: block;
